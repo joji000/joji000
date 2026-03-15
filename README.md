@@ -1,7 +1,6 @@
 # Hi 👋 I'm Chakhrit Thippawat
 
-💻 Junior Full Stack Developer  
-⚙️ Backend-focused developer using TypeScript & Node.js  
+💻 Junior Full Stack Developer   
 📍 Thailand  
 
 ---
